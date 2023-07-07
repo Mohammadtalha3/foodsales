@@ -1,0 +1,6 @@
+README.md
+setup.py
+foodsales.egg-info/PKG-INFO
+foodsales.egg-info/SOURCES.txt
+foodsales.egg-info/dependency_links.txt
+foodsales.egg-info/top_level.txt
